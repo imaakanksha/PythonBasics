@@ -1,3 +1,0 @@
-Machine Learning Plays a vital role in today's world.
-There are various types of Machine Learning : Supervised Machine Learning, Unsupervised Machine Learning, Reinforcement Learning
-Machine Learning is a subset of Artificial Intelligence.
